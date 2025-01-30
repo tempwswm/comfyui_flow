@@ -1,5 +1,13 @@
 # comfyui_flow
 用来保存我使用的一些comfyui相关的东西
+##工作流列表
+fastpaint 快速修复（视频去固定位置水印）
+
+## 讨饭
+以下是我的USDT钱包，我很可爱，请给我钱 (╹ڡ╹ )
+```
+TRNVdKwdMZgbGtWyxBao8gRcKN2tf9aBHv
+```
 ## 安装
 ### Liunx 安装GPU驱动 
 ```bash
